@@ -1,7 +1,7 @@
 # ElytraMacing-ModPack-Modrinth-Fabric-1.21.1
 Fabric ModPack For ElytraMacing
 
-txtx file:
+txt file:
 
 ```
 the world is already implemented in the mod pack. for elytra macing i would recomend either my mod or johsar's ElytraMace mod
