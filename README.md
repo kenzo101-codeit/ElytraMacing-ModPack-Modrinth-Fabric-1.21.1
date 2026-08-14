@@ -8,7 +8,7 @@ the world is already implemented in the mod pack. for elytra macing i would reco
 on modrinth!
 so yeah. you dont need to use the world.zip it is more for backup thing-
 
-anyways. happy elytra macing from Kenzo101 Studios! (minecraft username: [CENSORED])
+anyways. happy elytra macing from Kenzo101 Studios! (minecraft username: [REDACTED])
 
 P.S.: if you get lost try to use /tp 0 ~ 0
 ```
